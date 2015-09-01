@@ -14,5 +14,13 @@
     "split"
   ],
   "author": "David Ernst <npm@dsernst.com> (http://dsernst.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsernst/toDigits.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dsernst/toDigits/issues"
+  },
+  "homepage": "https://github.com/dsernst/toDigits#readme"
 }
