@@ -1,0 +1,18 @@
+{
+  "name": "to-digits",
+  "version": "1.0.0",
+  "description": "Converts a number to an array of its digits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert",
+    "number",
+    "digits",
+    "array",
+    "split"
+  ],
+  "author": "David Ernst <npm@dsernst.com> (http://dsernst.com)",
+  "license": "ISC"
+}
