@@ -1,5 +1,8 @@
 # to-digits
 
+[![NPM Version](https://img.shields.io/npm/v/to-digits.svg)](https://www.npmjs.com/package/to-digits)
+[![Build Status](https://travis-ci.org/dsernst/to-digits.svg?branch=master)](https://travis-ci.org/dsernst/to-digits)
+
 Converts a number to an array of its digits.
 
 ## Install
