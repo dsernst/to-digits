@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/dsernst/toDigits/issues"
   },
-  "homepage": "https://github.com/dsernst/toDigits#readme"
+  "homepage": "https://github.com/dsernst/toDigits#readme",
+  "dependencies": {
+    "lodash.isnumber": "^3.0.1"
+  }
 }
