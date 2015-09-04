@@ -14,13 +14,13 @@ var toDigits = require('to-digits');
 
 ## Usage
 
-### toDigits(number)
+#### toDigits(number)
 
 ```js
 toDigits(7654); // [7, 6, 5, 4]
 ```
 
-### toDigits.extend
+#### toDigits.extend
 
 Use this to extend the native Number.prototype:
 
